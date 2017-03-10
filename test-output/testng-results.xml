@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[STEP1]]>
+    </line>
+    <line>
+      <![CDATA[STEP2]]>
+    </line>
+    <line>
+      <![CDATA[STEP3]]>
+    </line>
+    <line>
+      <![CDATA[STEP4]]>
+    </line>
+    <line>
+      <![CDATA[STEP5]]>
+    </line>
+    <line>
+      <![CDATA[STEP6]]>
+    </line>
+    <line>
+      <![CDATA[STEP7]]>
+    </line>
+    <line>
+      <![CDATA[STEP8]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="19025" started-at="2017-03-10T13:41:14Z" finished-at="2017-03-10T13:41:33Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="19025" started-at="2017-03-10T13:41:14Z" finished-at="2017-03-10T13:41:33Z">
+      <class name="test.Framework">
+        <test-method status="PASS" signature="googleScenario(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:test.Framework@2a098129]" name="googleScenario" duration-ms="18908" started-at="2017-03-10T19:11:15Z" data-provider="googlescenario" finished-at="2017-03-10T19:11:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://www.google.co.in/]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[seleniumhq]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[10000]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[seleniumhq]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[http://www.seleniumhq.org/]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Get Selenium]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[STEP1]]>
+            </line>
+            <line>
+              <![CDATA[STEP2]]>
+            </line>
+            <line>
+              <![CDATA[STEP3]]>
+            </line>
+            <line>
+              <![CDATA[STEP4]]>
+            </line>
+            <line>
+              <![CDATA[STEP5]]>
+            </line>
+            <line>
+              <![CDATA[STEP6]]>
+            </line>
+            <line>
+              <![CDATA[STEP7]]>
+            </line>
+            <line>
+              <![CDATA[STEP8]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- googleScenario -->
+      </class> <!-- test.Framework -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
